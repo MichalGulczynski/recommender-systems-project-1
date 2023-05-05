@@ -15,6 +15,10 @@ Data preperation can be found in data_preprocessing/data_preprocessing_toolkit.p
 Preparing features and recommender training, tuning and evaluation can be found in project_1_recommender_and_evaluation.ipynb.
 
 <h1>Score</h1>
+<p>My recommender</p>
+<img src="data/linear_recommender_score.PNG"/>
+<p>Amazon recommender</p>
+<img src="data/amazon_recommender_score.PNG"/>
 
 <h1>Used technologies</h1>
 
